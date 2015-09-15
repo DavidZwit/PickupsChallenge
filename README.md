@@ -1,2 +1,2 @@
 # PickupsChallenge
-The pickupChallenge
+Making pickups in unity
